@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Discord" transform="translate(-385 -27)">
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="25" cy="25" r="25" transform="translate(385 27)" fill="#16202a"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(386.129 27.011)">
+      <path id="Path_6" data-name="Path 6" d="M19.923,44.323c-2.155,1.306-6.073-.849-7.313-3.657-.522-1.11-.522-2.22.326-5.877,1.828-7.444,2.808-11.558,6.008-12.668,1.241-.392,3.526-.718,4.636.522a2.743,2.743,0,0,1,.718,1.7h6.465c-.2-1.241-.261-2.612.522-3.2s6.073,1.241,8.685,4.31C43.561,29.7,45.847,37.728,41.8,41.972c-2.351,2.481-5.812,2.677-7.509,2.677-.653-1.11-1.241-2.22-1.828-3.33l-10.84-.326C21.49,41.776,21.229,43.539,19.923,44.323Z" transform="translate(-4.254 -7.302)" fill="#e1dab9"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="2.743" cy="3.069" rx="2.743" ry="3.069" transform="translate(15.474 22.067)" fill="#16202a"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="2.743" cy="3.069" rx="2.743" ry="3.069" transform="translate(25.073 22.067)" fill="#16202a"/>
+    </g>
+  </g>
+</svg>

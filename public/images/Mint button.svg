@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354.569" height="234.296" viewBox="0 0 354.569 234.296">
+  <defs>
+    <filter id="Path_32" x="0" y="0" width="354.569" height="234.296" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#f3b369"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_32-2" x="0" y="0" width="354.569" height="234.296" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-color="#fff" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="mint" x="66.516" y="64.148" width="225.537" height="120.001" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-color="#16202a" flood-opacity="0.812"/>
+      <feComposite operator="in" in2="blur-3"/>
+    </filter>
+    <filter id="mint-2" x="66.516" y="64.148" width="225.537" height="120.001" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-4"/>
+      <feFlood flood-color="#16202a" flood-opacity="0.749" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mint_button" data-name="Mint button" transform="translate(30 30)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, -30, -30)" filter="url(#Path_32)">
+        <path id="Path_32-3" data-name="Path 32" d="M13.444,39.139C19.307,28.726,24.308,25.228,29.8,21.564s11.825-7.043,25.054-12.34c8.43-3.375,18.279-2.512,27.3-3.365C98.5,4.31,112.07,3.615,112.07,3.615a224.45,224.45,0,0,1,59.083,0c32.93,4.3,78.527,20.193,78.527,20.193s27.391,10.47,39.73,24.68,6.264,34.776,6.264,34.776-1.8,28.326-9.349,48.986-9.184,19.725-19.818,30.663S230.982,176,230.982,176H130.112L65.8,170.391s-12.808.187-25.9-9.348S20.432,150.2,10.452,134.586,6.807,123.836,2.6,99.062c0-15.2,1.7-24.245,5.515-36.365C9.94,56.892,9.1,46.859,13.444,39.139Z" transform="translate(27.4 28.3)" fill="#ffe8b4"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -30)" filter="url(#Path_32-2)">
+        <path id="Path_32-4" data-name="Path 32" d="M13.444,39.139C19.307,28.726,24.308,25.228,29.8,21.564s11.825-7.043,25.054-12.34c8.43-3.375,18.279-2.512,27.3-3.365C98.5,4.31,112.07,3.615,112.07,3.615a224.45,224.45,0,0,1,59.083,0c32.93,4.3,78.527,20.193,78.527,20.193s27.391,10.47,39.73,24.68,6.264,34.776,6.264,34.776-1.8,28.326-9.349,48.986-9.184,19.725-19.818,30.663S230.982,176,230.982,176H130.112L65.8,170.391s-12.808.187-25.9-9.348S20.432,150.2,10.452,134.586,6.807,123.836,2.6,99.062c0-15.2,1.7-24.245,5.515-36.365C9.94,56.892,9.1,46.859,13.444,39.139Z" transform="translate(27.4 28.3)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, -30, -30)" filter="url(#mint)">
+        <text id="mint-3" data-name="mint" transform="translate(72.22 132.27) rotate(8)" fill="#f3b369" stroke="#f3b369" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" font-size="70" font-family="JackArmstrong, Jack Armstrong" letter-spacing="0.03em"><tspan x="0" y="0">mint</tspan></text>
+      </g>
+      <text id="mint-4" data-name="mint" transform="translate(42.224 102.274) rotate(8)" fill="#f3b369" font-size="70" font-family="JackArmstrong, Jack Armstrong" letter-spacing="0.03em"><tspan x="0" y="0">mint</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, -30, -30)" filter="url(#mint-2)">
+        <text id="mint-5" data-name="mint" transform="translate(72.22 132.27) rotate(8)" fill="#fff" font-size="70" font-family="JackArmstrong, Jack Armstrong" letter-spacing="0.03em"><tspan x="0" y="0">mint</tspan></text>
+      </g>
+      <text id="mint-6" data-name="mint" transform="translate(42.224 102.274) rotate(8)" stroke="#f3b369" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2" font-size="70" font-family="JackArmstrong, Jack Armstrong" letter-spacing="0.03em" fill="none"><tspan x="0" y="0">mint</tspan></text>
+    </g>
+  </g>
+</svg>
